@@ -1,2 +1,2 @@
 # React-Website
-React website that shows a "Travel" website.
+A fully responsive website using React.js. 
